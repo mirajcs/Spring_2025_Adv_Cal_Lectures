@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739399600.93509 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/adv_cal_feb13.tex" "adv_cal_feb13.pdf" "adv_cal_feb13" 1739399601.67488 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/adv_cal_feb13.tex" 1739399600.7278 1290 fa95559319ba3fca392f9a789c7a2416 ""
+["pdflatex"] 1739460083.95091 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/adv_cal_feb13.tex" "adv_cal_feb13.pdf" "adv_cal_feb13" 1739460084.72051 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/adv_cal_feb13.tex" 1739460083.75042 2016 91612b148321f4005d185abb7fe82fa8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -208,10 +208,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "adv_cal_feb13.aux" 1739399601.61696 719 572e16de66780eb60851374e7196524e "pdflatex"
-  "adv_cal_feb13.nav" 1739399601.6174 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
-  "adv_cal_feb13.out" 1739399601.46396 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "adv_cal_feb13.tex" 1739399600.7278 1290 fa95559319ba3fca392f9a789c7a2416 ""
+  "adv_cal_feb13.aux" 1739460084.65944 967 303275e2587b6c616d0a37b1991fe553 "pdflatex"
+  "adv_cal_feb13.nav" 1739460084.65995 571 868af295ddde775e3748386475d228b3 "pdflatex"
+  "adv_cal_feb13.out" 1739460084.46353 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "adv_cal_feb13.tex" 1739460083.75042 2016 91612b148321f4005d185abb7fe82fa8 ""
   (generated)
   "adv_cal_feb13.aux"
   "adv_cal_feb13.log"
