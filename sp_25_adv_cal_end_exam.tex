@@ -1,0 +1,124 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+\newcommand{\N}{\mathbb{N}}
+
+\newcommand\dint{\displaystyle{\int}}
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        \begin{minipage}{6in}
+            \textbf{\hspace{0.25in}Duration : #1 }
+        \end{minipage}
+        \hfill
+        \begin{minipage}{3in}
+            \textbf{}
+        \end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{}{MAT426 - Advanced Calculus}{Spring, 2025}{}{END-EXAM}
+
+\noindent \textbf{Name :}  ...........................................................................................................\\
+\vspace{0.1in}\\
+\textbf{ID Number} : .................................................................\\
+\vspace{0.2in}\\
+\hspace*{0.2in}\textbf{Instructions to Candidates }
+\begin{itemize}
+    \item Calculators are \textbf{NOT} allowed. 
+    \item This paper consists of \textcolor{red}{fill} questions.
+    \item Answer all questions. 
+    \item All questions carry marks as indicated for each question or part thereof.
+    %\item Do not use red ink in answering the questions.
+    \item All drawings or sketches, if any, should be produced clearly.
+    \item Assume reasonable values for any data not given with the question paper. Clearly state any assumptions.
+    %\item All answers should be provided in English language.
+    %\item An electronic non-programmable calculator approved by the Faculty may be used.
+    %\item All examinations are conducted in accordance with the Rules \& Regulations currently in force at the University.
+\end{itemize}
+
+\newpage
+%\section*{Question 1}
+\begin{questions}
+
+\question[] Prove that if \(F\) is closed and \(K\) is compact, then \(F \cap K \) is compact. 
+
+\begin{solution}
+    Proof of the Corollary page 38. 
+\end{solution}
+
+\question[] Prove that if \(E\) is an infinite subset of a compact set \(K\), then \(E\) has a limit point in \(K\). 
+
+\begin{solution}
+    Proof of theorem 2.37 page 38. 
+\end{solution}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
+\end{document}
+
+

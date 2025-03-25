@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  25 MAR 2025 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  25 MAR 2025 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_hw5.tex
-(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_hw5.tex
+**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_end_exam.tex
+(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_end_exam.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
@@ -353,23 +353,23 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen177
 \xmathstrut@box=\box57
 \xmathstrut@dim=\dimen178
-) (./sp_25_adv_cal_hw5.aux)
-\openout1 = `sp_25_adv_cal_hw5.aux'.
+) (./sp_25_adv_cal_end_exam.aux)
+\openout1 = `sp_25_adv_cal_end_exam.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count354
@@ -426,64 +426,64 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 77--77
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 81--81
 []$[]$
  []
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 77--78
+Overfull \hbox (111.01607pt too wide) in paragraph at lines 81--81
+[]$  $[]$ 
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 81--82
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
-<figures/Figure_1.png, id=1, 578.16pt x 289.08pt>
-File: figures/Figure_1.png Graphic file (type png)
-<use figures/Figure_1.png>
-Package pdftex.def Info: figures/Figure_1.png  used on input line 114.
-(pdftex.def)             Requested size: 289.07928pt x 144.53964pt.
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/Figure_1.png>] [2]
-This exam contains 3 questions with 6 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 20 points.
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2]
+This exam contains 2 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./sp_25_adv_cal_hw5.aux)
+(./sp_25_adv_cal_end_exam.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7089 strings out of 474116
- 108529 string characters out of 5743682
- 1936187 words of memory out of 5000000
- 29351 multiletter control sequences out of 15000+600000
- 563627 words of font info for 57 fonts, out of 8000000 for 9000
+ 7059 strings out of 474116
+ 108033 string characters out of 5743682
+ 1930187 words of memory out of 5000000
+ 29319 multiletter control sequences out of 15000+600000
+ 563964 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,1089b,384s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on sp_25_adv_cal_hw5.pdf (2 pages, 99548 bytes).
+ 72i,10n,79p,1094b,223s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on sp_25_adv_cal_end_exam.pdf (2 pages, 55152 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

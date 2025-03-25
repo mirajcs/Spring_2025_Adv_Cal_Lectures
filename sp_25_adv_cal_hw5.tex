@@ -105,8 +105,29 @@
 
 \droptotalpoints
 
-\question[20] (Problem 36) Let \(G\) be a group and let \(a \in G\). Prove that \(C(a) = C(a^{-1}).\)
+%\question[20] (Problem 36) Let \(G\) be a group and let \(a \in G\). Prove that \(C(a) = C(a^{-1}).\)
 
+\question[] (Problem 14) Give an example of an open cover of the segment \((0,1)\) which has no finite sub cover. 
+
+\begin{solution}
+
+    \includegraphics[scale=0.5]{figures/Figure_1.png}
+
+
+    The collection of open intervals \[\mathcal{U} = \left\{\left(\dfrac{1}{n},1\right)|n \in \mathbb{N}, n \geq 2\right\}\]
+is an open cover of \((0,1)\) because for any \(x \in (0,1)\), there exists a sufficiently large \(n\) such that \(x \in (1/n,1)\). However, it does not have a finite subcover; if it did, some points near 0 would be missed. 
+\end{solution}
+
+\question[] (Problem 16) Regard \(\mathbb{Q}\), the set of all rational numbers, as a metric space, with \(d(p,q)=|p-q|\). Let \(E\) be the set of all \(p\in \mathbb{Q}\) such that \(2<p^2<3\). Show that \(E\) is closed and bounded in \(\mathbb{Q}\), but that \(E\) is not compact. Is \(E\) open in \(\mathbb{Q}\)? 
+
+\begin{solution}
+    \[E = \{p \in \mathbb{Q}| 2 < p^2<3\} = \{\mathbb{Q} \cap \{(-\sqrt{3}, -\sqrt{2}) \cup (\sqrt{2}, \sqrt{3})\}\}\] 
+    Since \(|p|< \sqrt{3}\), \(E\) is bounded. \\
+For any sequence in \(E\), converge within \(E\) since the \(\pm \sqrt{2}, \pm \sqrt{3}\) are irrational. 
+
+\textcolor{red}{Complete!}
+
+\end{solution}
 
 
 
