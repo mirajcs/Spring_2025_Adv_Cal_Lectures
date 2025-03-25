@@ -1,52 +1,122 @@
-\documentclass[11pt]{book}
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
 
-\usepackage{fullpage,amsmath,amssymb}
-\addtolength{\oddsidemargin}{-.3in}
-\addtolength{\evensidemargin}{-.3in}
-\addtolength{\textwidth}{.6in}
-
-\addtolength{\topmargin}{-.6in}
-\addtolength{\textheight}{1.5in}
-
-\usepackage{fancyhdr}
-\usepackage{xcolor}
-\usepackage{enumerate}
-\usepackage{multicol}
-\usepackage{subfiles}
-\usepackage{enumitem}
-\usepackage[sharp]{easylist}
 \usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
 
-\newcommand\correction[1]{{\color{red}#1}}
-\newcommand\dint{\displaystyle{\int}}
 
-\lhead{\textbf{MAT426 - Advanced Calculus : Assignment 5 \textcolor{red}{not set}}}   
-\rhead{	\textbf{Due Date :  02/28/2025}}
-\cfoot{}
-\pagestyle{fancy}
-\setlength{\headsep}{.25in}
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+
+
+
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        \begin{minipage}{6in}
+            \textbf{\hspace{0.25in}Due Date : #1}
+        \end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{03/28/2025}{MAT426 - Advanced Calculus}{Spring, 2025}{}{Howework 05}
 
-\thispagestyle{fancy}
-\noindent	\textbf{For full credit, you must clearly \underline{show all work}, and upload the solutions as a PDF before 11:59 pm on the due date.}\hfill
-\vspace{0.3in}
-
-\begin{easylist}
-\ListProperties(CtrCom=\fbox)
-\noindent \textbf{Basic Topology; Exercises}
-\vspace{0.2in}
-# Exercise 2, page 43.
-\vspace{0.2in}
-# Exercise 3, page 43.
-\vspace{0.2in}
-# Exercise 4, page 43.
-\vspace{0.2in}
-# Exercise 7, page 43.  
-\vspace{0.2in}
-# Exercise 8, page 43. 
-
-\end{easylist}
+\section*{Basic Topology - Exercises}
+\begin{questions}
 
 
+
+\question[] (Problem 9) Let \(E^0\) denote the set of all interior points of s set \(E\). 
+
+\begin{parts}
+    \part[3] Prove that \(E^0\) is always an open set.
+    \begin{solution}
+        Use definition 2.18(e) and theorem 2.19.
+    \end{solution}
+    \droppoints
+    \part[3] Prove that \(E\) is open if and only if \(E^0=E\).
+    
+    \droppoints
+    \part[3] If \(G \subset E\) and \(G\) is open, prove that \(G \subset E^0\).
+    \droppoints
+    \part[3] Prove that the complement of \(E^0\) is the closure of the complement of \(E\).
+    \droppoints
+    \part[4] Do \(E\) and \(\overline{E}\) always have the same interior points? 
+    \droppoints
+    \part[4] Do \(E\) and \(E^0\) always have the same closure points? 
+    \droppoints
+\end{parts}
+
+
+\droptotalpoints
+
+\question[20] (Problem 36) Let \(G\) be a group and let \(a \in G\). Prove that \(C(a) = C(a^{-1}).\)
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
 \end{document}
+
+
