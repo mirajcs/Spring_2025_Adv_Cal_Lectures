@@ -8,7 +8,7 @@
 \title{MAT426: Advanced Calculus}
 \author{\textbf{Miraj Samarakkody}}
 \institute{Tougaloo College}
-\date{03/25/2025}
+\date{03/27/2025}
 
 \begin{document}
 
@@ -45,6 +45,77 @@ Every \(k-\)cell is compact.
 \end{block}
 \end{frame}
 
+\begin{frame}
+    \frametitle{2.41 Theorem}
+
+    \begin{block}{Theorem}
+        If a set \(E\) in \(\mathbb{R}^k\) has one of the following three properties, then it has the other two: 
+        \begin{enumerate}[(a)]
+            \item \(E\) is closed and bounded.
+            \item \(E\) is compact. 
+            \item Every infinite subset of \(E\) has a limit point in \(E\).
+        \end{enumerate}
+    \end{block}
+    \begin{block}{Proof:}
+        
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{2.42 Theorem}
+
+    \begin{block}{Theorem - Weierstrass}
+        Every bounded infinite subset of \(\mathbb{R}^k\) has a limit point in \(\mathbb{R}^k\).
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{}
+
+        \Huge{Perfect Sets}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{2.43 Theorem}
+
+    Let \(P\) be a non-empty perfect set in \(\mathbb{R}^k\). Then \(P\) is uncountable. 
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Corollary}
+
+    \begin{block}{Corollary}
+        Every interval \([a,b]\) is uncountable. In particluar, the set of all real numbers is uncountable. 
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{The Cantor Set}
+
+    Cantor set is a perfect set in \(\mathbb{R}^1\) which contain no segment. \\ \pause 
+    \vspace{0.2in}
+    Let \(E_0\) be the interval \([0,1]\). \\ \pause
+    \vspace{0.2in}
+    Remove the segment \(\left(\dfrac{1}{3}, \dfrac{2}{3}\right)\), and let \(E_1\) be the union of the intervals \[\left[0, \dfrac{1}{3}\right], \left[\dfrac{2}{3}\right]\]\pause
+    Remove the middle thirds of these intervals, and let \(E_2\) be the union of the intervals \[\left[0, \dfrac{1}{9}\right], \left[\dfrac{2}{9}, \dfrac{3}{9}\right],\left[\dfrac{6}{9}, \dfrac{7}{9}\right],\left[\dfrac{8}{9}, 1\right]\]
+
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{The Cantor set}
+
+    Continuing in this way, we obtain a sequence of compact sets \(E_n\), such that \begin{enumerate}
+        \item \(E_1 \supset E_2 \supset E_3 \supset \dots\)
+        \item \(E_n\) is the union of \(2^n\) intervals, each of length \(3^{-n}\).
+    \end{enumerate}
+The set \[P = \cap_{n=1}^\infty E_n\] is called the \textbf{Cantor set}.
+\end{frame}
 
 
 \end{document}
