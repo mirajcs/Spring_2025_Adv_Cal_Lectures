@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743122098.4811 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_lec_apr01.tex" "sp_25_adv_cal_lec_apr01.pdf" "sp_25_adv_cal_lec_apr01" 1743122099.19408 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_lec_apr01.tex" 1743122097.55708 2504 df99dd43856f9dcabe6c1c116f5130a7 ""
+["pdflatex"] 1743516987.61882 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_lec_apr01.tex" "sp_25_adv_cal_lec_apr01.pdf" "sp_25_adv_cal_lec_apr01" 1743516988.38411 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_lec_apr01.tex" 1743516986.58971 3432 f818159fa204c803a6e4c8c7843f73d4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -213,10 +213,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_adv_cal_lec_apr01.aux" 1743122099.13817 1474 bd9597bead70c902a4aa2a8df18a8b64 "pdflatex"
-  "sp_25_adv_cal_lec_apr01.nav" 1743122099.13886 933 ac2f2e943364f37090606cb5fbcb98ba "pdflatex"
-  "sp_25_adv_cal_lec_apr01.out" 1743122098.9237 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_adv_cal_lec_apr01.tex" 1743122097.55708 2504 df99dd43856f9dcabe6c1c116f5130a7 ""
+  "sp_25_adv_cal_lec_apr01.aux" 1743516988.32857 1861 6a53d15985016b198e024fc16a865c25 "pdflatex"
+  "sp_25_adv_cal_lec_apr01.nav" 1743516988.32928 1212 82763c7b828044f7666ecaaff0469537 "pdflatex"
+  "sp_25_adv_cal_lec_apr01.out" 1743516988.05638 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_adv_cal_lec_apr01.tex" 1743516986.58971 3432 f818159fa204c803a6e4c8c7843f73d4 ""
   (generated)
   "sp_25_adv_cal_lec_apr01.aux"
   "sp_25_adv_cal_lec_apr01.log"
