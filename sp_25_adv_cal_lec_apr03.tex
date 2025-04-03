@@ -1,0 +1,86 @@
+\documentclass{beamer}
+
+\usepackage{amsmath, amssymb}
+\usepackage{tikz-cd}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\title{MAT426: Advanced Calculus}
+\author{\textbf{Miraj Samarakkody}}
+\institute{Tougaloo College}
+\date{04/03/2025}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+
+
+
+\begin{frame}
+    \frametitle{Numerical Sequences and Series}
+\end{frame}
+
+    \begin{frame}
+        \frametitle{Convergent Sequences}
+    
+        \begin{block}{3.1 Definition}
+            A sequence \(\{p_n\}\) in a metric space \(X\) is said to \textbf{converge} if there is a point \(p \in X\) with the following property: \\
+            \vspace{0.2in}
+
+            For every \(\epsilon>0\) there is an integer \(N\) such that \(n\geq N\) implies that \(d(p_n,p) < \epsilon\). 
+        \end{block} \pause 
+        \begin{itemize}
+            \item We say that \(\{p_n\}\) converges to \(p\), or that \(p\) is the limit of \(p_n\). \pause
+            \item We write \(p_n \to p \) or \(\lim_{n \to \infty}p_n =p\). \pause
+            \item If \(\{p_n\}\) does not converge, it is said to \textit{diverge.}\pause
+            \item Convergent sequence depends not only on \(\{p_n\}\) but also on \(X\)\\
+            Ex: Sequence \(1/n\) in \(\mathbb{R}^1\) and in set of all positive real numbers with \(d(x,y)=|x-y|\)
+        \end{itemize}
+    \end{frame}
+
+\begin{frame}
+    \frametitle{Convergent Sequences}
+
+    \begin{itemize}
+        \item The set of all points \(p_n~(n=1,2,3, \dots)\) is the range of \(\{p_n\}. \)
+        \item The range of a sequence may be finite set, or may be infinite. 
+        \item The sequence \(\{p_n\}\) is said to be bounded if its range is bounded. 
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Example}
+
+    Consider the following sequences of complex numbers (\(X = \mathbb{R}^2\)): \pause
+    \begin{itemize}
+        \item If \(s_n=1/n\), then \(\lim_n \to \infty s_n =0\); the range is infinite and the sequence is bounded. \pause
+        \item If \(s_n=n^2\), the sequence \(\{s_n\}\) is unbounded, is divergent, and has infinite range. \pause
+        \item If \(s_n= 1+ [(-1)^n/n]\), the sequence \(\{s_n\}\) converges to \(1\), is bounded, and has infinite range. \pause  
+        \item If \(s_n = i^2\), the sequence \(\{s_n\}\) is divergent, is bounded, and has finite range. \pause
+        \item If \(s_n = 1~(n=1,2,3, \dots)\), then \(\{s_n\}\) converges to 1, is bounded, and has finite range. \pause
+        \item If \(s_n =1 ~(n=1,2,3, \dots)\), then \(\{s_n\}\) converges 1, is bounded, and has finite range. 
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Theorem}
+
+    Let \(\{p_n\}\) be a sequence in a metric space \(X\). 
+
+    \begin{itemize}
+        \item \(\{p_n\}\) converges to \(p \in X\) if and only if every neighborhood of \(p\) contains \(p_n\) for all but finitely many \(n\). \pause
+        \item If \(p \in X\), \(p' \in X\), and if \(\{p_n\}\) converges to \(p\) and to \(p'\), then \(p'=p\).\pause
+        \item If \(\{p_n\}\) converges, then \(\{p_n\}\) is bounded. \pause
+        \item If \(E \subset X \) and if \(p\) is a limit point of \(E\), then there is a sequence \(\{p_n\}\) in \(E\) such that \(p = \lim_{n \to \infty}p_n\). 
+    \end{itemize}
+
+\end{frame}
+
+
+
+\end{document}
