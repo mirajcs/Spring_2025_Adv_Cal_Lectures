@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743995548.37875 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.pdf" "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction" 1743995549.23041 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" 1743995548.1796 3284 850c239e24b58e83f1c707e93318c44d ""
+["pdflatex"] 1744295110.19939 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.pdf" "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction" 1744295111.17253 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Adv_Cal_Lectures/sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" 1744295109.9814 4303 7af93c2e7a7b1637a68902930ef83a49 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -24,6 +24,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm" 1336178347 1696 aaa5bbd1f47f001247d42218ce371101 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1336178347 1676 fb6c6a335484692abff897d6e8965829 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
@@ -212,10 +213,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.aux" 1743995549.17464 1102 c750d21ca909cadb8dc71ee68534b075 "pdflatex"
-  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.nav" 1743995549.1753 669 8402936862594e54e9d62f2e9fee11bc "pdflatex"
-  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.out" 1743995548.84837 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" 1743995548.1796 3284 850c239e24b58e83f1c707e93318c44d ""
+  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.aux" 1744295111.11331 1358 f51b43a47784c1a84a5f2ec412e1c7d8 "pdflatex"
+  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.nav" 1744295111.11398 853 f50e8708a49561c359bbdcc36c1a883d "pdflatex"
+  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.out" 1744295110.70161 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex" 1744295109.9814 4303 7af93c2e7a7b1637a68902930ef83a49 ""
   (generated)
   "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.aux"
   "sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.log"
