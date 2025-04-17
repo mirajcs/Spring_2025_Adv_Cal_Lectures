@@ -6,7 +6,7 @@
 \usepackage{graphicx}
 
 \title{MAT426: Advanced Calculus - Numerical Sequences and Series}
-\subtitle{Convergent Sequences}
+\subtitle{Convergent Sequences \cite{R1976}}
 \author{\textbf{Miraj Samarakkody}}
 \institute{Tougaloo College}
 \date{Updated: \today}
@@ -98,10 +98,57 @@
     \frametitle{3.4 Theorem}
 
     \begin{itemize}
-        \item Suppose \(\mathbf{x}_n \in \mathbb{R}^k~(n=1,2,3, \dots)\) and \[\mathbf{x}_n = (\alpha_{1,n}, \dots, \alpha_{k,n}).\] Then \(\{\mathbf{x}_n\}\) converges to \(\mathbf{x} = (\alpha_1, \dots, \alpha_k)\) if and only if \(\lim_{n \to \infty}\alpha_{i,n} = \alpha_i\) for \(i=1,2,\dots,k\). \pause 
+        \item Suppose \(\mathbf{x}_n \in \mathbb{R}^k~(n=1,2,3, \dots)\) and \[\mathbf{x}_n = (\alpha_{1,n}, \dots, \alpha_{k,n}).\] Then \(\{\mathbf{x}_n\}\) converges to \(\mathbf{x} = (\alpha_1, \dots, \alpha_k)\) if and only if \(\lim_{n \to \infty}\alpha_{i,n} = \alpha_i\) for \(i=1,2,\dots,k\). 
     \end{itemize}
 
 \end{frame}
+
+\begin{frame}
+    \frametitle{Subsequences}
+
+    \Huge{Subsequences}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Definition}
+
+    \begin{block}{3.5 Definitions}
+        Given a sequnce \(\{p_n\}\), consider a sequence \(n_k\) of positive integers, such that \(n_1 <n_2< n_3 \dots \). Then the sequence \(\{p_{n_l}\}\) is called a subseqece of \(\{p_n\}\). If \(\{p_{n_l}\}\)  converges, its limit is called a subsequential limit of \(\{p_n\}\). 
+    \end{block}\pause
+
+    It is clear that \(\{p_n\}\) converges to \(p\) if and only if every subsequence of \(\{p_n\}\) converges to \(p\). 
+    
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Theorem}
+
+    \begin{block}{3.6 Theorem }
+        \begin{itemize}
+            \item If \(\{p_n\}\) is a sequence in a metric space \(X\), then some subsequence of \(p_n\) converges to a point of \(X\). \pause
+            \item Every bounded sequence in \(\mathbb{R}^k\) contains a convergent subsequences. 
+        \end{itemize}
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Theorem}
+
+    \begin{block}{3.7 Theorem}
+        The subsequential limit of a sequence \(\{p_n\}\) in a metric space \(X\) form a closed subset of \(X\). 
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{References}
+    \bibliographystyle{plain} % or another style like unsrt, alpha, etc.
+    \bibliography{references}  % omit the .bib extension
+\end{frame}
+
 
 
 \end{document}

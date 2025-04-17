@@ -1,8 +1,8 @@
-PWD /Users/mirajcs/gitmc/Spring_2025_Adv_Cal_Lectures
+PWD /Users/mirajcs/git/Spring_2025_AdV_Cal_Lectures
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex
+INPUT /Users/mirajcs/git/Spring_2025_AdV_Cal_Lectures/sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.tex
 OUTPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamer.cls
@@ -391,6 +391,10 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/sansmathaccent/mathker
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
+INPUT ./sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.bbl
+INPUT ./sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.bbl
+INPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.bbl
 OUTPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.nav
 OUTPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.toc
 OUTPUT sp_25_adv_cal_Numerical_Sequences_and_Series_Introduction.snm
@@ -401,6 +405,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
